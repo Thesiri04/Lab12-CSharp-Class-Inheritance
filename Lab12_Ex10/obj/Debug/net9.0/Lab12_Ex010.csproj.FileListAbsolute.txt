@@ -1,0 +1,15 @@
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\bin\Debug\net9.0\Lab12_Ex010.exe
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\bin\Debug\net9.0\Lab12_Ex010.deps.json
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\bin\Debug\net9.0\Lab12_Ex010.runtimeconfig.json
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\bin\Debug\net9.0\Lab12_Ex010.dll
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\bin\Debug\net9.0\Lab12_Ex010.pdb
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.AssemblyInfoInputs.cache
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.AssemblyInfo.cs
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.sourcelink.json
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.dll
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\refint\Lab12_Ex010.dll
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.pdb
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\Lab12_Ex010.genruntimeconfig.cache
+C:\Users\ASUS\OOP-2567\Lab12-CSharp-Class-Inheritance\Lab12_Ex10\obj\Debug\net9.0\ref\Lab12_Ex010.dll
